@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Monitor Samsung C24RG5",
+    "descripcion": "Monitor Samsung ------------------------",
+    "codigo": "123151648",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_2X_896735-MLA45212708765_032021-F.webp",
+    "precio": 70588,
+    "stock": 24,
+    "timestamp": 1649127910074,
+    "id": 1
+  },
+  {
+    "nombre": "Monitor Samsung C24RG5",
+    "descripcion": "Monitor Samsung |||||||||||||||||||||||",
+    "codigo": "123151648",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_2X_896735-MLA45212708765_032021-F.webp",
+    "precio": 70588,
+    "stock": 24,
+    "timestamp": 1651188728624,
+    "id": 2
+  },
+  {
+    "nombre": "Motherboard Mother Asus Prime A320m-k",
+    "descripcion": "Motherboard Mother Asus Prime A320m-k *****************************",
+    "codigo": "123151648",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_2X_814476-MLA47101074241_082021-F.webp",
+    "precio": 35860,
+    "stock": 25,
+    "timestamp": 1649127964462,
+    "id": 3
+  },
+  {
+    "nombre": "Motherboard gigabyte",
+    "descripcion": "Motherboard gigabyte ******************",
+    "codigo": "123151648",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_2X_814476-MLA47101074241_082021-F.webp",
+    "precio": 45888,
+    "stock": 20,
+    "timestamp": 1651188719137,
+    "id": 4
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp": 1649128054515,
+    "productos": [
+      {
+        "nombre": "Motherboard Mother Asus Prime A320m-k",
+        "descripcion": "Motherboard Mother Asus Prime A320m-k *****************************",
+        "codigo": "123151648",
+        "url": "https://http2.mlstatic.com/D_NQ_NP_2X_814476-MLA47101074241_082021-F.webp",
+        "precio": 35860,
+        "stock": 25,
+        "timestamp": 1649127964462,
+        "id": 3
+      },
+      {
+        "nombre": "Procesador gamer AMD Ryzen 5 5600X",
+        "descripcion": "Procesador gamer AMD Ryzen 5 5600X *****************************",
+        "codigo": "123151648",
+        "url": "https://http2.mlstatic.com/D_NQ_NP_2X_806834-MLA44347094824_122020-F.webp",
+        "precio": 45689,
+        "stock": 18,
+        "timestamp": 1649127629348,
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "timestamp": 1649129533800,
+    "productos": [
+      {
+        "nombre": "Motherboard Mother Asus Prime A320m-k",
+        "descripcion": "Motherboard Mother Asus Prime A320m-k *****************************",
+        "codigo": "123151648",
+        "url": "https://http2.mlstatic.com/D_NQ_NP_2X_814476-MLA47101074241_082021-F.webp",
+        "precio": 35860,
+        "stock": 25,
+        "timestamp": 1649127964462,
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "timestamp": 1651038122615,
+    "productos": [
+      {
+        "nombre": "Monitor Samsung C24RG5",
+        "descripcion": "Monitor Samsung ------------------------",
+        "codigo": "123151648",
+        "url": "https://http2.mlstatic.com/D_NQ_NP_2X_896735-MLA45212708765_032021-F.webp",
+        "precio": 70588,
+        "stock": 24,
+        "timestamp": 1649127910074,
+        "id": 1
+      },
+      {
+        "nombre": "Motherboard Mother Asus Prime A320m-k",
+        "descripcion": "Motherboard Mother Asus Prime A320m-k *****************************",
+        "codigo": "123151648",
+        "url": "https://http2.mlstatic.com/D_NQ_NP_2X_814476-MLA47101074241_082021-F.webp",
+        "precio": 35860,
+        "stock": 25,
+        "timestamp": 1649127964462,
+        "id": 3
+      }
+    ],
+    "id": 3
+  }
+]
